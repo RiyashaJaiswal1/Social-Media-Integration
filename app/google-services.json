@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "705746639478",
+    "project_id": "socialmedialogin-b282e",
+    "storage_bucket": "socialmedialogin-b282e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705746639478:android:b8636eab8fcfe869ce1d57",
+        "android_client_info": {
+          "package_name": "com.example.socialmedialogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705746639478-gbh9onk8s98jra2f8o64gbvb5tngjr7p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwyGGBSv_N-brUpeVq52F2H7-7dxZZDz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705746639478-gbh9onk8s98jra2f8o64gbvb5tngjr7p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
